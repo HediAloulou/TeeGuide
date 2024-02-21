@@ -16,7 +16,7 @@ class AvatarPage extends StatelessWidget {
               children: [
                 // Text "Get in touch with Adam" with custom color and bold
                 Text(
-                  'Get in touch\nwith our bot', // Split into two lines
+                  'Get in touch\nwith TG', // Split into two lines
                   textAlign: TextAlign.center, // Center the text
                   style: TextStyle(
                     fontSize: 24,
